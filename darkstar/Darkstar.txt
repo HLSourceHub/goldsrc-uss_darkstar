@@ -1,0 +1,222 @@
+05/20/99   "PC GAMER presents: USS DARKSTAR"  
+
+[A New HalfLife Pak w/16 Single Player Levels]
+HalfLife Registered Ver. 1.0.0.9 is Required! 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Designer/Mapper: 	Neil Manke  
+web site: 		http://www.planethalflife.com/manke/
+
+Producer: 		Bill Harms
+
+If you want to see more 'PC Gamer presents' Halflife levels, write 
+and let us know! Send e-mail to the PC Gamer Online Editor....
+
+Bill Harms <bharms@imaginemedia.com> 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Design/Technical Advisor:	Einar Saukas
+Lead Tester:         		Paul Taylor
+Sound Producer:			Magnus Jansén 
+
+Custom Textures, Sky/Enviro: 	Neil Manke
+
+Voice acting:		Karin Brander
+			Per Jacobsson
+			Magnus Jansén 
+			Petter Mörk
+
+Bathroom Fixtures:      JediCow5 [used in zoology9/14 bathrooms]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+* Thanks to	* Paul, Magnus & Einar
+		* Eric Sutton for the Darkstar logos  
+		* Otis [aka Frans Bouma] for 'MdlViewer' 
+		* David Flor for Half-Life Sprite Viewer
+		* Phil Daniels & the guys in the ERC editing group
+		* Ben Morris for originating 'Worldcraft' and
+		  Yahn Bernier for continuing it's developement
+		* Valve and Id Software!
+		* Bill Harms and associates at PC Gamer 
+
+* Thanks to the testers... 
+		
+		* Dennis Plester
+		* Gene Spinks
+		* Morgan Parry 
+		* Magnus Jansén 
+		* Paul Taylor
+		* Einar Saukas
+		
++++++++++++++++++++++++++++++ Prologue ++++++++++++++++++++++++++
+
+  	To: Mr. Walter Bennett 
+			<www.planethalflife.com/community/walter>
+  	From: Dr. Einar Saukas <www.ime.usp.br/~einar>
+  	Subject: Offer of Employment
+
+  	Dear Mr. Walter Bennett,
+
+  	Black Widow Inc. would like to invite you to join our
+  	organization. You would be assigned as a member of the
+  	multi-disciplinary scientific team on board of the USS
+  	DARKSTAR, in a zoological research expedition to seek out,
+  	collect and investigate new alien life-forms in unexplored
+  	sectors of the universe.
+
+  	This mission occurs in the year 2066, but since you have
+  	already travelled to the future before, this should not be a
+  	problem for you. The space-time window to come to our present
+  	time will be available in just a few days, please decide ASAP
+  	about your interest in this job opportunity.
+
+  	You have been selected for this position by Cmdr. Neil Manke
+  	due to your broad knowledge on advanced biochemistry and
+  	extensive experience interacting with hostile aliens. Your
+  	proven capacity to survive under critical conditions was also
+  	considered. But actually you don't have anything to worry
+  	about, our project is adopting the most rigorous safety
+  	measures to prevent incidents. I can personally guarantee
+  	everything is under control and none of the crew will be ever
+  	submitted to any risk situations whatsoever. This is
+  	certainly going to be a calm, quiet and relaxing journey, as
+  	you can already predict from the pictures of our impressive
+  	spaceship installations at <www.planethalflife.com/manke>.
+
+  	We are looking forward to having you on our team!
+
+  	Dr. Einar Saukas
+  	Administration Office
+  	Black Widow Inc.
+  	Project USS DARKSTAR
+
+
+Mr. Walter Bennett was one of the several famous scientists
+invited to participate on this mission. You are Dr. Gordon
+Freeman, a brilliant researcher that always had problems to
+wake up on time...
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Remember, you must own a copy of the full retail version of 
+HALFLIFE(r) in order to play this extra single-player level pak.  
+For additional information on how to purchase your very own copy of 
+HALFLIFE(r) please contact 
+http://www.sierrastudios.com/games/half-life/bot.html 
+or visit you local computer software retail store.  Please read this 
+text file for complete installation and play details for this extra 
+level[s] "pak" file.  
+
+HALFLIFE(r) is a registered trademark 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+BEFORE PLAYING:
+
+USS DARKSTAR 
+-some verbal messages are very important so listen carefully
+
+-you will need to know how to 'crouch-jump' to make it through this
+pak. This is covered in the Halflife training course, and it 'may'
+be in the little HL game manual?
+
+-if you use cheat codes you will disrupt the normal course of events
+and may even get stuck some places. if you 'must' use god mode make 
+sure you still 'visit' all recharge stations, or you will get halted 
+in your progress through the maps.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++		 
+"HOW TO RUN"
+----------------
+
+1) Create a subdirectory "darkstar" under the HALFLIFE directory
+(parallel to the "valve" directory). Create a subdirectory "media"
+under the DARKSTAR directory.
+
+2) Unzip all the files [except logo.avi] in darkstar.zip into the 
+darkstar directory you created. Unzip logo.avi into the "media"
+folder you created. The layout should look as follows:
+
+*:\HALFLIFE                  
+   	|
+   	+--- DARKSTAR
+   	|	|  
+	|	+-- darkstar.txt 
+        |   	+-- liblist.gam         
+	|	+-- neilm.wad
+	|	+-- pak0.pak
+	|	+-- titles.txt
+	|	+-- MEDIA
+	|		|
+	|		+-- logo.avi
+	+--- TFC
+   	|
+   	+--- VALVE
+
+
+3) Now start HL normally.
+
+4) From the main menu, click on "Custom game". You will see
+now a list of all the mods available on your computer. Select 
+Darkstar and click on "Activate".
+
+5) Select "Done" and then return to main HL menu. The Darkstar
+logo should appear on the screen.
+
+6) Now start a new game, select the skill level.... That's all!
+
+NOTE: Please consult Sierra technical help and your Halflife
+documentation for help on how to run custom games in version 1.0.0.9
+
+---------------------------------------------------------------------		                                 
+* Level information *
+
+Single Player Maps      : YES
+
+Deathmatch/Co-op        : No
+
+New Graphics            : Mostly Valve's textures but a few new ones
+		   	  by me and some altered Valve textures. 
+ 
+			  New sky/enviro by me. 
+			
+New Models/Code	    	: NO
+				
+New Sounds		: Yes... many new sounds by Magnus Jansén
+
+Base                    : new levels from scratch 
+
+Tools used              : Worldcraft 2.0, qART, Paint Shop Pro, 
+			  PakExplorer, QPed, Wally, SkyPaint,
+			  Spriteviewer, MdlViewer, etc.
+
+
+Known Bugs/nonbugs	: the HL monsters that speak custom dialoge 
+			cannot be fully stopped from also 
+			occassionally saying regular dialoge from HL, 
+			thus they can sometimes speak in 2 voices:]
+			  
+Distribution  : PC Gamer requests that USS Darkstar is only distributed
+ 		by them and will be done so at NO CHARGE to the 
+		recipient, USS Darkstar may not be used or modified 
+		in any way without written permission from the 
+		author and PC Gamer.  I would like to request anyone 
+		who reviews "PC GAMER presents: USS DARKSTAR" at their 
+		site to kindly inform me that they have done so. 
+		Thank you! 
+		This level may not be distributed on any medium, such 
+		as, but not limited to, CDs, floppy disks, etc, 
+		without the express written permission of PC Gamer.
+
+Property      : The custom textures/skins/graphics/code/sounds are the 
+		property of their respective authors and ARE NOT to be 
+		used in any other add-ons levels/paks/etc. without the 
+		written permission of the appropriate author.
+		
+
+++++++++++++++++++++++++++ HELP/HINTS +++++++++++++++++++++++++++++
+
+Please check the USS Darkstar page @ 
+http://www.planethalflife.com/manke/
+for a walk-through of USS Darkstar
+

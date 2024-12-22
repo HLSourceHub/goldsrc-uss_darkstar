@@ -1,0 +1,11 @@
+// USS Darkstar
+game "USS Darkstar"
+url_info "www.planethalflife.com/manke"
+url_dl ""
+version "1"
+hlversion "1009"
+size "27600000"
+type "singleplayer_only"
+nomodels "0"
+startmap "dsintro"
+gamedll "dlls\hl.dll"
